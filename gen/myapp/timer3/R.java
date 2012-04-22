@@ -14,15 +14,24 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int LL1=0x7f050000;
-        public static final int btn1=0x7f050001;
-        public static final int btn2=0x7f050003;
-        public static final int btn3=0x7f050004;
-        public static final int tv1=0x7f050002;
-        public static final int tv3=0x7f050005;
+        public static final int btn1start=0x7f050003;
+        public static final int btn1stop=0x7f050004;
+        public static final int btn2start=0x7f050008;
+        public static final int btn2stop=0x7f050009;
+        public static final int btn3start=0x7f05000d;
+        public static final int btn3stop=0x7f05000e;
+        public static final int btns1=0x7f050002;
+        public static final int btns2=0x7f050007;
+        public static final int btns3=0x7f05000c;
+        public static final int tab1=0x7f050000;
+        public static final int tab2=0x7f050005;
+        public static final int tab3=0x7f05000a;
+        public static final int tv1=0x7f050001;
+        public static final int tv2=0x7f050006;
+        public static final int tv3=0x7f05000b;
     }
     public static final class layout {
-        public static final int tabsample=0x7f030000;
+        public static final int timer3=0x7f030000;
     }
     public static final class string {
         public static final int app_name=0x7f040001;
